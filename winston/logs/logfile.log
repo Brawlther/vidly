@@ -1,0 +1,1008 @@
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to MongoDB."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"genres\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"genres\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"genres\"\n    at SchemaObjectId.cast (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\schema\\objectId.js:252:11)\n    at SchemaObjectId.SchemaType.applySetters (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\schemaType.js:1372:12)\n    at SchemaObjectId.SchemaType.castForQuery (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\schemaType.js:1792:17)\n    at cast (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\cast.js:386:32)\n    at model.Query.Query.cast (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\query.js:5212:12)\n    at model.Query.Query._castConditions (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\query.js:2409:10)\n    at model.Query._findOne (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\query.js:2756:8)\n    at model.Query.exec (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\query.js:4797:80)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at findGenreById (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\dao\\genres\\read.js:9:19)\n    at C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\routes\\genres.js:21:19","stringValue":"\"1\"","value":"1","valueType":"string"}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"genres\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"genres\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"genres\"\n    at SchemaObjectId.cast (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\schema\\objectId.js:252:11)\n    at SchemaObjectId.SchemaType.applySetters (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\schemaType.js:1372:12)\n    at SchemaObjectId.SchemaType.castForQuery (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\schemaType.js:1792:17)\n    at cast (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\cast.js:386:32)\n    at model.Query.Query.cast (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\query.js:5212:12)\n    at model.Query.Query._castConditions (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\query.js:2409:10)\n    at model.Query._findOne (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\query.js:2756:8)\n    at model.Query.exec (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\node_modules\\mongoose\\lib\\query.js:4797:80)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at findGenreById (C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\dao\\genres\\read.js:9:19)\n    at C:\\Users\\61963\\Javascript\\Projects\\Node.js\\Data Validation\\routes\\genres.js:21:19","stringValue":"\"1\"","value":"1","valueType":"string"}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
+{"level":"info","message":"Server is running on port 5050..."}
+{"level":"info","message":"Connected to mongodb://localhost/mongo-exercises_tests."}
